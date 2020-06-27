@@ -1,0 +1,4 @@
+str="abc\n"
+print(str)
+str=str.rstrip("\n")
+print(str)

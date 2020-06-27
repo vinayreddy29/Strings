@@ -1,0 +1,6 @@
+str="geeksforgeeks"
+new_str=" "
+for i in range(len(str)):
+                          if i!=2:
+                                     new_str=new_str + str[i]
+print("the string after removal of ith character :"+ new_str)

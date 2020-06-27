@@ -1,0 +1,3 @@
+str="hello"
+for index,letter in enumerate(str,1):
+                                        print(index,":",letter)
